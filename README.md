@@ -1,3 +1,5 @@
+# README
+
 En este repositorio se almacenan archivos sobre el análisis ejecutada para la primera PEC de la asignatura Análisis de Datos Ómicos.
 
 Los archivos originales que se han descargado del repositorio GitHub proporcionado (https://github.com/nutrimetabolomics/metaboData/tree/main/Datasets/2024-fobitools-UseCase_1) son:
