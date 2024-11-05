@@ -3,6 +3,9 @@ title: "PEC 1 ADO"
 author: "Daniele Sebastiani"
 date: "2024-11-01"
 output: 
+  pdf_document:
+    toc: true
+    toc_depth: 2
   html_document:
     toc: true
     toc_depth: 2 
@@ -136,13 +139,7 @@ En la carpeta del *dataset* encuentro tres archivos principales formato CSV que 
 Para descargar los archivos, puedo simplemente hacer clic en cada uno de ellos
 y clicar en el botón para la descarga.
 
-\begin{figure}
-\centering
-\includegraphics[width=0.8\textwidth]{C:/Users/Usuario/Desktop/UOC/tercer semestre/Análisis de datos ómicos/unidad 1/PEC1_1/dataset_cranbarry/imagenes/fig_1.png}  
-\caption{Pantalla descarga archivos del dataset elegido}
-\end{figure}
-
-De otra manera, puedo utilizar un código para la descarga directa de los archivos.
+Otra manera es utilizar un código para la descarga directa de los archivos.
 En este caso tengo que acceder al contenido "raw" de los datos.
 
 ```{r message=FALSE}
@@ -769,10 +766,14 @@ los que he trabajado, voy a asociar el nuevo proyecto con una carpeta ya existen
 A través de:
 
 - File
-  - New project
-    - Existing directory
-      - especificar la ruta de la carpeta con los datos.
-        - Create Project
+
+- New project
+
+- Existing directory
+
+- especificar la ruta de la carpeta con los datos.
+
+- Create Project
 
 Ahora, regresando a la console de RStudio, utilizo la función `create_github_token()` 
 de la librería `usethis` para generar el token para la creación del repositorio.
