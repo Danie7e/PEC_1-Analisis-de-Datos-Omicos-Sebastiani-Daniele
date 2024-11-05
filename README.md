@@ -15,6 +15,6 @@ Se ha creado un objeto de clase "SummarizedExperiment" con datos y metadatos.
 Este se ha guardado en formato binario en el archivo "SummarizedExperiment_PEC1.Rda".
 
 Se ha realizado un análisis exploratoria de los datos. Códigos y comentarios se han guardado en el archivo 
-"**Sebastiani_Daniele_PEC1.Rmd**" con el cual se ha generado también el archivo "**Sebastiani_Daniele_PEC1.html**".
+"**Sebastiani_Daniele_PEC1.Rmd**" con el cual se ha generado también los archivos "**Sebastiani_Daniele_PEC1.html**" y "**Sebastiani_Daniele_PEC1.pdf**".
 
 Finalmente, en el archivo "**Description.md**" se guardan los metadatos acerca del dataset en un archivo markdown.
