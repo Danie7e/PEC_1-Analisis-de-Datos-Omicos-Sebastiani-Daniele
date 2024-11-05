@@ -1,7 +1,7 @@
 # Metadatos del Dataset "2024-fobitools-UseCase_1" para PEC1 de Análisis de Datos Ómicos
 
-Con ste documento voy a describir los de datos utilizado en el análisis y las
-variable contenida en los archivos.
+Con este documento voy a describir los de datos utilizado en el análisis y las
+variables contenidas en los archivos.
 
 ## Archivos de Datos
 
