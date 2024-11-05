@@ -496,8 +496,8 @@ los metabolitos.</p></li>
 <h2>Descargar los datos y cargarlos en RStudio</h2>
 <p>Para descargar los archivos, puedo simplemente hacer clic en cada uno
 de ellos y clicar en el botón para la descarga.</p>
-<p>De otra manera, puedo utilizar un código para la descarga directa de
-los archivos. En este caso tengo que acceder al contenido “raw” de los
+<p>Otra manera es utilizar un código para la descarga directa de los
+archivos. En este caso tengo que acceder al contenido “raw” de los
 datos.</p>
 <pre class="r"><code>path &lt;- &quot;https://raw.githubusercontent.com/nutrimetabolomics/metaboData/main/Datasets/2024-fobitools-UseCase_1/&quot;
 feat &lt;- paste0(path, &quot;features.csv&quot;)
@@ -1155,19 +1155,11 @@ archivos con los que he trabajado, voy a asociar el nuevo proyecto con
 una carpeta ya existente.</p>
 <p>A través de:</p>
 <ul>
-<li>File
-<ul>
-<li>New project
-<ul>
-<li>Existing directory
-<ul>
-<li>especificar la ruta de la carpeta con los datos.
-<ul>
-<li>Create Project</li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul></li>
+<li><p>File</p></li>
+<li><p>New project</p></li>
+<li><p>Existing directory</p></li>
+<li><p>especificar la ruta de la carpeta con los datos.</p></li>
+<li><p>Create Project</p></li>
 </ul>
 <p>Ahora, regresando a la console de RStudio, utilizo la función
 <code>create_github_token()</code> de la librería <code>usethis</code>
