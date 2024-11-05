@@ -3,7 +3,7 @@ title: "PEC 1 ADO"
 author: "Daniele Sebastiani"
 date: "2024-11-01"
 output: 
-  pdf_document:
+  html_document:
     toc: true
     toc_depth: 2 
 ---
@@ -796,9 +796,9 @@ y subirlos al repositorio GitHub.
 
 Finalmente, voy a pegar aquí el enlace de mi repositorio.
 
-https://github.com/Danie7e/PEC-1-Analisis-de-Datos-Omicos-Sebastiani-Daniele
+https://github.com/Danie7e/PEC_1-Analisis-de-Datos-Omicos-Sebastiani-Daniele
 
-[Enlace GitHub](https://github.com/Danie7e/PEC-1-Analisis-de-Datos-Omicos-Sebastiani-Daniele)
+[Enlace GitHub](https://github.com/Danie7e/PEC_1-Analisis-de-Datos-Omicos-Sebastiani-Daniele)
 
 
 
