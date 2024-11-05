@@ -145,7 +145,7 @@ En este caso tengo que acceder al contenido "raw" de los datos.
 ```{r message=FALSE}
 path <- "https://raw.githubusercontent.com/nutrimetabolomics/metaboData/main/Datasets/2024-fobitools-UseCase_1/"
 feat <- paste0(path, "features.csv")
-data_dir <- "C:/Users/Usuario/Desktop/UOC/tercer semestre/Análisis de datos ómicos/unidad 1/PEC1/data/"
+data_dir <- "C:/Users/Usuario/Desktop/UOC/tercer semestre/Análisis de datos ómicos/unidad 1/PEC1_1/data/"
 dir.create(data_dir, showWarnings=FALSE)
 feat_dest <- file.path(data_dir, "feat.csv")
 download.file(feat, destfile = feat_dest, mode="wb")
@@ -797,9 +797,9 @@ y subirlos al repositorio GitHub.
 
 Finalmente, voy a pegar aquí el enlace de mi repositorio.
 
-https://github.com/Danie7e/PEC_1-Analisis-de-Datos-Omicos-Sebastiani-Daniele
+https://github.com/Danie7e/Sebastiani-Daniele-PEC1
 
-[Enlace GitHub](https://github.com/Danie7e/PEC_1-Analisis-de-Datos-Omicos-Sebastiani-Daniele)
+[Enlace GitHub](https://github.com/Danie7e/Sebastiani-Daniele-PEC1)
 
 
 
